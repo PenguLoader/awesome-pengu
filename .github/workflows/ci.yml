@@ -42,8 +42,9 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add ./.auto-generated/*
           git commit -m "Update .auto-generated/ folder" || true
-          git push
+          git pussh
       - name: Push changes  # push the output folder to your repo
+        run: git push
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           force: true

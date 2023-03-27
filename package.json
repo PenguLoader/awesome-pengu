@@ -1,0 +1,21 @@
+{
+    "name": "awesome-plugins",
+    "version": "0.0.1",
+    "scripts": {
+        "test": "jest",
+        "auto-generate": "node scripts/auto-generators/main.js"
+    },
+    "devDependencies": {
+        "image-size": "^1.0.0",
+        "image-type": "^4.1.0",
+        "is-image": "^3.0.0",
+        "jest": "^27.0.6",
+        "mkdirp": "^1.0.4",
+        "moment": "^2.29.1",
+        "read-chunk": "^4.0.0"
+    },
+    "dependencies": {
+        "compare-versions": "^3.6.0",
+        "node": "^16.6.1"
+    }
+}

@@ -1,0 +1,49 @@
+name: ci
+
+on:
+  push:
+    branches:
+      - '**'
+
+jobs:
+  test:
+    name: Run tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 16.6.1
+
+      - run: npm install
+
+      - run: npm run test
+
+  auto-generation:
+    if: github.repository == 'PenguLoader/awesome-plugins'
+    needs: test
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 16.6.1
+
+      - run: npm install
+
+      - run: npm run auto-generate
+
+      - run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ./.auto-generated/*
+          git commit -m "Update .auto-generated/ folder" || true
+      - name: Push changes  # push the output folder to your repo
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true

@@ -2,7 +2,7 @@ const fs = require("fs");
 const { pluginConfigs } = require(__dirname + "/../tests/test_utils");
 
 const generatePluginsList = () => {
-    const dir = __dirname + "./../../.auto-generated";
+    const dir = __dirname + "/../../.auto-generated";
     if (!fs.existsSync(dir)) {
         fs.mkdir(dir);
     }

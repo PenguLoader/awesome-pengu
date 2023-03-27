@@ -43,7 +43,7 @@ jobs:
           git add ./.auto-generated/*
           git commit -m "Update .auto-generated/ folder" || true
       - name: Push changes  # push the output folder to your repo
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@dev
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           force: true

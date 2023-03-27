@@ -2,28 +2,25 @@
     "categories": [
         {
             "name": "Usability",
-            "description": "General features that are missing in Habbo / improve the user experience",
-            "icon": "usability1.png"
+            "description": "General features that are missing in our clients / improve the user experience"
         },
         {
             "name": "Fun",
-            "description": "Enjoy scripting!",
-            "icon": "fun2.png"
+            "description": "Just fun"
         },
         {
             "name": "Others",
-            "description": "For all plugins with features that don't quite fit the other categories",
-            "icon": "others1.png"
+            "description": "For all plugins with features that don't quite fit the other categories"
         }
     ],
     "types": [
         {
             "name": "Theme",
-            "description": "The native G-Earth extension API"
+            "description": "Plugins that improve your client experience"
         },
         {
             "name": "Plugin",
-            "description": "G-Earth extension interface for Python"
+            "description": "Themes that improve the look of your client"
         }
     ]
 }

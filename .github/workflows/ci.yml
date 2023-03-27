@@ -3,7 +3,7 @@ name: ci
 on:
   push:
     branches:
-      - '**'
+      - 'dev'
 
 jobs:
   test:
@@ -42,9 +42,8 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add ./.auto-generated/*
           git commit -m "Update .auto-generated/ folder" || true
-          git pussh
       - name: Push changes  # push the output folder to your repo
-        run: git push
+        run: ad-m/github-push-action@dev
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_PAT }}
           force: true

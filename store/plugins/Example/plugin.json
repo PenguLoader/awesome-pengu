@@ -1,0 +1,14 @@
+{
+    "title": "Example",
+    "description": "Only a example plugin!",
+    "authors": [
+        {
+            "name": "Lx",
+            "discord": "Lx#3330"
+        }
+    ],
+    "version": "1.0",
+    "categories": ["Others"],
+    "type": "Plugin",
+    "isOutdated": true
+}

@@ -45,6 +45,6 @@ jobs:
       - name: Push changes  # push the output folder to your repo
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.LX_PAT }}
+          github_token: ${{ secrets.PL_TOKEN }}
           branch: "dev"
           force: true

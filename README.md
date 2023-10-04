@@ -17,6 +17,7 @@
 * [Resources](#resources) - All sources of information about Pengu Loader and plugin development.
 * [Plugins](#plugins) - Awesome plugins for Pengu Loader.
 * [Themes](#themes) - Awesome themes for Pengu Loader.
+* [Misc](#misc) - Awesome misc things for Pengu Loader.
 
 ## Resources
 
@@ -50,6 +51,8 @@
 
 * [RandomIconPool](https://github.com/MashToolZ/PenguPlugins/tree/main/RandomIconPool) - Adds a Random Button & Pool to the Summoner Icon Selection.
 
+* [FakePromotion](https://github.com/BakaFT/FakePromotion) - Easy to make a fake ranking promotion.
+
 ## Themes
 
 * [Acrylical](https://github.com/PrincessAkira/league-launcher-theme/tree/main/Acrylical) - A minimalist theme that supports transparency effect.
@@ -66,6 +69,11 @@
 
 * [Rem theme](https://github.com/teisseire117/league-loader-plugins) - A pretty animated theme.
 
+## Misc
+
+* [BetterTencentLCU](https://github.com/BakaFT/BetterTencentLCU)
+
+* [CustomHookLoader](https://github.com/BakaFT/CustomHookLoader)
 
 <br>
 

@@ -48,6 +48,8 @@
 
 * [TeamInsightX](https://github.com/LightningSw/TeamInsightX) - Search for teammate information during champ-select.
 
+* [RandomIconPool](https://github.com/MashToolZ/PenguPlugins/tree/main/RandomIconPool) - Adds a Random Button & Pool to the Summoner Icon Selection.
+
 ## Themes
 
 * [Acrylical](https://github.com/PrincessAkira/league-launcher-theme/tree/main/Acrylical) - A minimalist theme that supports transparency effect.

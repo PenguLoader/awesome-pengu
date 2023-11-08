@@ -12,12 +12,16 @@
 
 👉 Join the [Pengu Loader Community](https://chat.pengu.lol) to learn more about Pengu Loader and get helps.
 
-## Contents
+## Table of Contents
 
 * [Resources](#resources) - All sources of information about Pengu Loader and plugin development.
 * [Plugins](#plugins) - Awesome plugins for Pengu Loader.
 * [Themes](#themes) - Awesome themes for Pengu Loader.
 * [Misc](#misc) - Awesome misc things for Pengu Loader.
+
+<br>
+
+👇 👇 👇
 
 ## Resources
 
@@ -45,7 +49,7 @@
 
 * [Lobby Reveal Console]() - Reveal ranked teamate names in console/chat log.
 
-* [Bench Killer](https://github.com/BakaFT/BenchKiller) - No swap cooldown in ARAM.
+* [~~Bench Killer~~](https://github.com/BakaFT/BenchKiller) (deprecated) - No swap cooldown in ARAM.
 
 * [TeamInsightX](https://github.com/LightningSw/TeamInsightX) - Search for teammate information during champ-select.
 
@@ -53,9 +57,17 @@
 
 * [FakePromotion](https://github.com/BakaFT/FakePromotion) - Easy to make a fake ranking promotion.
 
+* [FriendsNotifier](https://github.com/iIlusion/FriendsNotifier) - Get nofitication when your friends status change.
+
+* [Raemove-all-friends](https://github.com/feelsz1n/Pengu-Plugins/tree/main/remove-all-friends) - Remove all your friends just in one click.
+
+* [Invite-all-friends](https://github.com/Elaina69/Invite-all-friends) - Fast lobby inviting all your friends just in one click.
+
 ## Themes
 
 * [Acrylical](https://github.com/PrincessAkira/league-launcher-theme/tree/main/Acrylical) - A minimalist theme that supports transparency effect.
+
+* [Acrylic theme (egirl's tweaks)](https://github.com/egirlcatnip/acrylic-league-theme) - Adjusted by egirlcatnip from Sarah's acrylic theme.
 
 * [Ahri theme](https://github.com/nomi-san/ahri-theme) - Spirit Blossom Ahri theme
 

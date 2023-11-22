@@ -53,7 +53,7 @@
 
 * [TeamInsightX](https://github.com/LightningSw/TeamInsightX) - Search for teammate information during champ-select.
 
-* [RandomIconPool](https://github.com/MashToolZ/PenguPlugins/tree/main/RandomIconPool) - Adds a Random Button & Pool to the Summoner Icon Selection.
+* RandomIconPool (moved to MTZ plugins) - Adds a Random Button & Pool to the Summoner Icon Selection.
 
 * [FakePromotion](https://github.com/BakaFT/FakePromotion) - Easy to make a fake ranking promotion.
 
@@ -62,6 +62,8 @@
 * [Raemove-all-friends](https://github.com/feelsz1n/Pengu-Plugins/tree/main/remove-all-friends) - Remove all your friends just in one click.
 
 * [Invite-all-friends](https://github.com/Elaina69/Invite-all-friends) - Fast lobby inviting all your friends just in one click.
+
+* [MTZ Plugins](https://github.com/MashToolZ/PenguPlugins) - A collection of utility plugins (AutoAccept, AutoHonor, GroupInviter, and more). 
 
 ## Themes
 
@@ -80,6 +82,8 @@
 * [Purple theme](https://github.com/floyare/league-purple-theme) - A purple flavored theme.
 
 * [Rem theme](https://github.com/teisseire117/league-loader-plugins) - A pretty animated theme.
+
+* [Indie theme](https://github.com/nomi-san/indie-theme) - Wide lobby view, collapsible social pane, and more for your League Client.
 
 ## Misc
 

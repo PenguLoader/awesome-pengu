@@ -49,13 +49,9 @@
 
 * [Lobby Reveal Console]() - Reveal ranked teamate names in console/chat log.
 
-* [~~Bench Killer~~](https://github.com/BakaFT/BenchKiller) (deprecated) - No swap cooldown in ARAM.
-
 * [TeamInsightX](https://github.com/LightningSw/TeamInsightX) - Search for teammate information during champ-select.
 
 * RandomIconPool (moved to MTZ plugins) - Adds a Random Button & Pool to the Summoner Icon Selection.
-
-* [FakePromotion](https://github.com/BakaFT/FakePromotion) - Easy to make a fake ranking promotion.
 
 * [FriendsNotifier](https://github.com/iIlusion/FriendsNotifier) - Get nofitication when your friends status change.
 
@@ -86,8 +82,6 @@
 * [Indie theme](https://github.com/nomi-san/indie-theme) - Wide lobby view, collapsible social pane, and more for your League Client.
 
 ## Misc
-
-* [BetterTencentLCU](https://github.com/BakaFT/BetterTencentLCU)
 
 * [CustomHookLoader](https://github.com/BakaFT/CustomHookLoader)
 

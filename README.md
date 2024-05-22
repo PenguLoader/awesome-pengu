@@ -10,7 +10,7 @@
 
 <br>
 
-👉 Join the [Pengu Loader Community](https://chat.pengu.lol) to learn more about Pengu Loader and get helps.
+👉 Join the [Pengu Loader Discord](https://chat.pengu.lol) to learn more about Pengu Loader and get helps.
 
 ## Table of Contents
 
@@ -25,11 +25,9 @@
 
 ## Resources
 
-* [Pengu.lol](https://pengu.lol) - Official Pengu Loader home page and documentation.
+* [https://pengu.lol](https://pengu.lol) - Pengu Loader home page and documentation.
 
-* [Pengu Store](https://pengu.lol) - (WIP) Official Pengu plugin store.
-
-* [PenguLoader](https://github.com/PenguLoader/PenguLoader) - Pengu Loader project and source code.
+* [PenguLoader/PenguLoader](https://github.com/PenguLoader/PenguLoader) - Pengu Loader project and source code.
 
 ## Plugins
 
@@ -47,9 +45,7 @@
 
 * [Name Spoofer](https://github.com/iIlusion/league-loader-plugins/tree/main/NameSpoofer) - Spoof your name throughout the entirety of the client.
 
-* [Lobby Reveal Console]() - Reveal ranked teamate names in console/chat log.
-
-* [TeamInsightX](https://github.com/LightningSw/TeamInsightX) - Search for teammate information during champ-select.
+* [deprecated] [TeamInsightX](https://github.com/LightningSw/TeamInsightX) - Search for teammate information during champ-select.
 
 * RandomIconPool (moved to MTZ plugins) - Adds a Random Button & Pool to the Summoner Icon Selection.
 

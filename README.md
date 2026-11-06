@@ -55,7 +55,9 @@
 
 * [Invite-all-friends](https://github.com/Elaina69/Invite-all-friends) - Fast lobby inviting all your friends just in one click.
 
-* [MTZ Plugins](https://github.com/MashToolZ/PenguPlugins) - A collection of utility plugins (AutoAccept, AutoHonor, GroupInviter, and more). 
+* [MTZ Plugins](https://github.com/MashToolZ/PenguPlugins) - A collection of utility plugins (AutoAccept, AutoHonor, GroupInviter, and more).
+
+* [Better LoL Chat](https://github.com/12boost/better-lol-chat) - Improves post-game chat with champion names and icons, team-colored messages, a larger chat window, and more.
 
 ## Themes
 
